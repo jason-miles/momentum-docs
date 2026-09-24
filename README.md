@@ -7,7 +7,7 @@
 
 *A curated, topic-organized index of Databricks product decks, best-practice guides, deployment playbooks, and enablement material.*
 
-![Documents](https://img.shields.io/badge/Documents-74-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Topics](https://img.shields.io/badge/Topics-16-1B3139?style=for-the-badge&logoColor=white) ![Format](https://img.shields.io/badge/Format-PDF%20%7C%20DOCX%20%7C%20MD-00A972?style=for-the-badge)
+![Documents](https://img.shields.io/badge/Documents-64-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Topics](https://img.shields.io/badge/Topics-16-1B3139?style=for-the-badge&logoColor=white) ![Format](https://img.shields.io/badge/Format-PDF%20%7C%20DOCX%20%7C%20MD-00A972?style=for-the-badge)
 
 </div>
 
@@ -18,13 +18,13 @@
 Jump to any topic area:
 
 - 🤖 [**AI Agents**](#-ai-agents) — State-of-the-art agent research and industry reports `(1)`
-- 🚪 [**AI Gateway & Omnnigent**](#-ai-gateway--omnnigent) — Unity AI Gateway product decks, GA announcement, and Terraform notes `(6)`
+- 🚪 [**AI Gateway & Omnnigent**](#-ai-gateway--omnnigent) — Unity AI Gateway product decks and overviews `(3)`
 - ☁️ [**Azure**](#-azure) — Azure Databricks architecture and capability comparisons `(2)`
 - 📦 [**DABS**](#-dabs) — Databricks Asset Bundles — CI/CD and declarative deployment `(6)`
 - 🛡️ [**Data Goverance & Lineage**](#-data-goverance--lineage) — Data & AI governance and lineage guidance `(1)`
 - 🧱 [**Data Modelling**](#-data-modelling) — Dimensional and Data Vault modeling for the Lakehouse `(3)`
 - 🖥️ [**Databricks Apps**](#-databricks-apps) — Building and deploying data & AI apps on Databricks `(3)`
-- 💰 [**FinOps**](#-finops) — Cost control, budgeting, tagging, and observability `(12)`
+- 💰 [**FinOps**](#-finops) — Cost control, budgeting, tagging, and observability `(5)`
 - ✨ [**GenAI**](#-genai) — Generative AI big books and enterprise AI guides `(3)`
 - 🧞 [**Genie (Best Practices)**](#-genie-best-practices) — AI/BI Genie best practices, curation, and pitch material `(12)`
 - 🚀 [**Genie (Deploy Guides)**](#-genie-deploy-guides) — Genie rollout, migration, and enterprise deployment guides `(11)`
@@ -48,16 +48,13 @@ Jump to any topic area:
 
 ## 🚪 AI Gateway & Omnnigent
 
-> Unity AI Gateway product decks, GA announcement, and Terraform notes
+> Unity AI Gateway product decks and overviews
 
 | # | Document | Type |
 |---|---|---|
-| 1 | 📃 [AI Gateway Terraform — Session Log & Further Optimizations (2026-09-21).md](AI%20Gateway%20%26%20Omnnigent/AI%20Gateway%20Terraform%20%E2%80%94%20Session%20Log%20%26%20Further%20Optimizations%20%282026-09-21%29.md) | `MD` |
-| 2 | 📃 [AI Gateway Terraform — Status & Optimization Recommendations.md](AI%20Gateway%20%26%20Omnnigent/AI%20Gateway%20Terraform%20%E2%80%94%20Status%20%26%20Optimization%20Recommendations.md) | `MD` |
-| 3 | 📄 [Databricks Mail - [Eng Announce] Unity AI Gateway is now Generally Available 🎉.pdf](AI%20Gateway%20%26%20Omnnigent/Databricks%20Mail%20-%20%5BEng%20Announce%5D%20Unity%20AI%20Gateway%20is%20now%20Generally%20Available%20%F0%9F%8E%89.pdf) | `PDF` |
-| 4 | 📄 [Databricks Unity AI Gateway Product Deck.pdf](AI%20Gateway%20%26%20Omnnigent/Databricks%20Unity%20AI%20Gateway%20Product%20Deck.pdf) | `PDF` |
-| 5 | 📄 [Unity AI Gateway & Omnigent Overview.pdf](AI%20Gateway%20%26%20Omnnigent/Unity%20AI%20Gateway%20%26%20Omnigent%20Overview.pdf) | `PDF` |
-| 6 | 📄 [Unity AI Gateway Product Overview Deck.pdf](AI%20Gateway%20%26%20Omnnigent/Unity%20AI%20Gateway%20Product%20Overview%20Deck.pdf) | `PDF` |
+| 1 | 📄 [Databricks Unity AI Gateway Product Deck.pdf](AI%20Gateway%20%26%20Omnnigent/Databricks%20Unity%20AI%20Gateway%20Product%20Deck.pdf) | `PDF` |
+| 2 | 📄 [Unity AI Gateway & Omnigent Overview.pdf](AI%20Gateway%20%26%20Omnnigent/Unity%20AI%20Gateway%20%26%20Omnigent%20Overview.pdf) | `PDF` |
+| 3 | 📄 [Unity AI Gateway Product Overview Deck.pdf](AI%20Gateway%20%26%20Omnnigent/Unity%20AI%20Gateway%20Product%20Overview%20Deck.pdf) | `PDF` |
 
 [⬆ Back to top](#-databricks-document-repository)
 
@@ -131,14 +128,7 @@ Jump to any topic area:
 | 2 | 📄 [Cost Control & Budget Management Workshop.pdf](FinOps/Cost%20Control%20%26%20Budget%20Management%20Workshop.pdf) | `PDF` |
 | 3 | 📄 [Databricks Architecture & FinOps Cost Mgmt.pdf](FinOps/Databricks%20Architecture%20%26%20FinOps%20Cost%20Mgmt.pdf) | `PDF` |
 | 4 | 📄 [FinOps, Observability and Cost Management.pdf](FinOps/FinOps%2C%20Observability%20and%20Cost%20Management.pdf) | `PDF` |
-| 5 | 📄 [old/[EXTERNAL] Cost Mgmt & Tagging Best Practices copy.pdf](FinOps/old/%5BEXTERNAL%5D%20Cost%20Mgmt%20%26%20Tagging%20Best%20Practices%20copy.pdf) | `PDF` |
-| 6 | 📄 [old/[EXTERNAL] Cost Mgmt & Tagging Best Practices.pdf](FinOps/old/%5BEXTERNAL%5D%20Cost%20Mgmt%20%26%20Tagging%20Best%20Practices.pdf) | `PDF` |
-| 7 | 📄 [old/Cost Control & Budget Management Workshop.pdf](FinOps/old/Cost%20Control%20%26%20Budget%20Management%20Workshop.pdf) | `PDF` |
-| 8 | 📄 [old/Databricks Architecture & FinOps Cost Mgmt.pdf](FinOps/old/Databricks%20Architecture%20%26%20FinOps%20Cost%20Mgmt.pdf) | `PDF` |
-| 9 | 📄 [old/Databricks FinOps & Cost Optimisation Best Practices.pdf](FinOps/old/Databricks%20FinOps%20%26%20Cost%20Optimisation%20Best%20Practices.pdf) | `PDF` |
-| 10 | 📄 [old/FinOps, Observability and Cost Management.pdf](FinOps/old/FinOps%2C%20Observability%20and%20Cost%20Management.pdf) | `PDF` |
-| 11 | 📄 [old/Serverless _  Advanced Cost Control & Budget Management.pdf](FinOps/old/Serverless%20_%20%20Advanced%20Cost%20Control%20%26%20Budget%20Management.pdf) | `PDF` |
-| 12 | 📄 [Serverless  - Advanced Cost Control & Budget Management.pdf](FinOps/Serverless%20%20-%20Advanced%20Cost%20Control%20%26%20Budget%20Management.pdf) | `PDF` |
+| 5 | 📄 [Serverless  - Advanced Cost Control & Budget Management.pdf](FinOps/Serverless%20%20-%20Advanced%20Cost%20Control%20%26%20Budget%20Management.pdf) | `PDF` |
 
 [⬆ Back to top](#-databricks-document-repository)
 

@@ -51,7 +51,7 @@
   <!-- pills -->
   <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700">
     <rect x="98"  y="196" width="150" height="44" rx="22" fill="url(#accent)"/>
-    <text x="173" y="225" fill="#ffffff" text-anchor="middle">74 Documents</text>
+    <text x="173" y="225" fill="#ffffff" text-anchor="middle">64 Documents</text>
 
     <rect x="262" y="196" width="120" height="44" rx="22" fill="url(#teal)"/>
     <text x="322" y="225" fill="#052b22" text-anchor="middle">16 Topics</text>
