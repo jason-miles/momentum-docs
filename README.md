@@ -8,7 +8,7 @@
 A curated, topic-organized library of Databricks product decks, best-practice guides,
 deployment playbooks, and enablement material — ready to share with customers.
 
-![Documents](https://img.shields.io/badge/Documents-64-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Topics](https://img.shields.io/badge/Topics-16-1B3139?style=for-the-badge&logoColor=white) ![Format](https://img.shields.io/badge/Format-PDF%20%7C%20DOCX-00A972?style=for-the-badge)
+![Documents](https://img.shields.io/badge/Documents-71-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Topics](https://img.shields.io/badge/Topics-17-1B3139?style=for-the-badge&logoColor=white) ![Format](https://img.shields.io/badge/Format-PDF%20%7C%20DOCX%20%7C%20XLSX-00A972?style=for-the-badge)
 
 </div>
 
@@ -26,7 +26,8 @@ The whole library in one view — grouped by theme. Click a topic to jump to its
 |  | 🤖 [AI Agents](#-ai-agents) | 1 | Agent research and industry reports |
 | **🧞 Genie** | 🧞 [Genie (Best Practices)](#-genie-best-practices) | 12 | AI/BI Genie best practices, curation, and pitch material |
 |  | 🚀 [Genie (Deploy Guides)](#-genie-deploy-guides) | 11 | Genie rollout, migration, and enterprise deployment |
-| **🗂️ Governance & Data** | 📐 [Semantic-Modelling](#-semantic-modelling) | 5 | UC Metric Views and semantic layer modeling |
+| **🗂️ Governance & Data** | 🔒 [Genie (Security & Governance)](#-genie-security--governance) | 7 | AI/Genie security, guardrails, and governance frameworks |
+|  | 📐 [Semantic-Modelling](#-semantic-modelling) | 5 | UC Metric Views and semantic layer modeling |
 |  | 📚 [Unity Catalogue](#-unity-catalogue) | 5 | Unity Catalog design, best practices, and governance |
 |  | 🧱 [Data Modelling](#-data-modelling) | 3 | Dimensional and Data Vault modeling for the Lakehouse |
 |  | 🛡️ [Data Governance & Lineage](#-data-governance--lineage) | 1 | Data & AI governance and lineage guidance |
@@ -37,7 +38,7 @@ The whole library in one view — grouped by theme. Click a topic to jump to its
 |  | ⚡ [Lakehouse :: RT](#-lakehouse--rt) | 1 | Lakehouse real-time processing |
 | **📣 Announcements** | 📣 [DAIS 2026 Announcements](#-dais-2026-announcements) | 1 | Data + AI Summit 2026 announcements |
 
-> **64 documents** across **16 topics** in **5 themes**.
+> **71 documents** across **17 topics** in **5 themes**.
 
 ---
 
@@ -165,6 +166,22 @@ The whole library in one view — grouped by theme. Click a topic to jump to its
 | 1 | 📄 [Data Modeling in DataWareHousing Primer.pdf](Data%20Modelling/Data%20Modeling%20in%20DataWareHousing%20Primer.pdf) | `PDF` |
 | 2 | 📄 [Dimensional & Data Vault Modeling for Databricks Lakehouse.pdf](Data%20Modelling/Dimensional%20%26%20Data%20Vault%20Modeling%20for%20Databricks%20Lakehouse.pdf) | `PDF` |
 | 3 | 📄 [Dimensional Modeling + Performance tips for Databricks .pdf](Data%20Modelling/Dimensional%20Modeling%20%2B%20Performance%20tips%20for%20Databricks%20.pdf) | `PDF` |
+
+<sub>[⬆ Back to top](#-databricks-document-repository)</sub>
+
+## 🔒 Genie (Security & Governance)
+
+> AI/Genie security, guardrails, and governance frameworks
+
+| # | Document | Type |
+|---|---|:---:|
+| 1 | 📄 [  WHITEPAPER-  Databricks Agentic Al Security -  Extension to the Databricks Al Security  Framework.pdf](Genie%20%28Security%20%26%20Governance%29/%20%20WHITEPAPER-%20%20Databricks%20Agentic%20Al%20Security%20-%20%20Extension%20to%20the%20Databricks%20Al%20Security%20%20Framework.pdf) | `PDF` |
+| 2 | 📊 [[External] Databricks AI Security Framework v 3.0 - Compendium.xlsm](Genie%20%28Security%20%26%20Governance%29/%5BExternal%5D%20Databricks%20AI%20Security%20Framework%20v%203.0%20-%20Compendium.xlsm) | `XLSM` |
+| 3 | 📄 [Databricks AI Features - Security FAQ.pdf](Genie%20%28Security%20%26%20Governance%29/Databricks%20AI%20Features%20-%20Security%20FAQ.pdf) | `PDF` |
+| 4 | 📄 [Databricks AI Features Security & Architecture.pdf](Genie%20%28Security%20%26%20Governance%29/Databricks%20AI%20Features%20Security%20%26%20Architecture.pdf) | `PDF` |
+| 5 | 📄 [Databricks Foundation Model APIs.pdf](Genie%20%28Security%20%26%20Governance%29/Databricks%20Foundation%20Model%20APIs.pdf) | `PDF` |
+| 6 | 📄 [Databricks Genie -  Model Guardrails Assessment.pdf](Genie%20%28Security%20%26%20Governance%29/Databricks%20Genie%20-%20%20Model%20Guardrails%20Assessment.pdf) | `PDF` |
+| 7 | 📄 [LLM Hosting Security Architecture.pdf](Genie%20%28Security%20%26%20Governance%29/LLM%20Hosting%20Security%20Architecture.pdf) | `PDF` |
 
 <sub>[⬆ Back to top](#-databricks-document-repository)</sub>
 
