@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src=".github/logo.svg" alt="Momentum Health" width="300">
-
-<br>
-
-<img src=".github/banner.svg" alt="Databricks Document Repository" width="100%">
+<img src=".github/banner.svg" alt="Databricks Document Repository — Momentum Health" width="100%">
 
 # 📖 Databricks Document Repository
 ### Momentum Health · Customer-Shareable Documentation Library
