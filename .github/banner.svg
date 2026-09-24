@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Momentum Docs — Databricks Customer-Shareable Documentation Library">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B3139"/>
+      <stop offset="0.55" stop-color="#0B1E26"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF3621"/>
+      <stop offset="1" stop-color="#FF7A59"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00A972"/>
+      <stop offset="1" stop-color="#00C2A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="280" rx="20" fill="url(#bg)"/>
+
+  <!-- decorative document glyphs -->
+  <g opacity="0.10" fill="none" stroke="#ffffff" stroke-width="3">
+    <rect x="1010" y="46"  width="70" height="92" rx="8"/>
+    <rect x="1096" y="86"  width="70" height="92" rx="8"/>
+    <rect x="1182" y="46"  width="70" height="92" rx="8"/>
+    <rect x="1053" y="150" width="70" height="92" rx="8"/>
+    <rect x="1139" y="150" width="70" height="92" rx="8"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="64" y="70" width="8" height="140" rx="4" fill="url(#accent)"/>
+
+  <!-- title -->
+  <text x="96" y="120" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Momentum Docs</text>
+  <text x="98" y="164" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="500" fill="#9FB3BC">Databricks Customer-Shareable Documentation Library</text>
+
+  <!-- pills -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700">
+    <rect x="98"  y="196" width="150" height="44" rx="22" fill="url(#accent)"/>
+    <text x="173" y="225" fill="#ffffff" text-anchor="middle">74 Documents</text>
+
+    <rect x="262" y="196" width="120" height="44" rx="22" fill="url(#teal)"/>
+    <text x="322" y="225" fill="#052b22" text-anchor="middle">16 Topics</text>
+
+    <rect x="396" y="196" width="196" height="44" rx="22" fill="none" stroke="#3A4B54" stroke-width="2"/>
+    <text x="494" y="225" fill="#CBD5DC" text-anchor="middle">PDF · DOCX · MD</text>
+  </g>
+</svg>

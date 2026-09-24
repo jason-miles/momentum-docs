@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src=".github/banner.svg" alt="Momentum Docs — Databricks Customer-Shareable Documentation Library" width="100%">
+
 # 📖 Momentum Docs
 ### Databricks Customer-Shareable Documentation Library
 
