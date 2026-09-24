@@ -18,27 +18,27 @@
   <rect width="1280" height="280" rx="20" fill="url(#bg)"/>
 
   <!-- faint document glyphs behind the logo, for texture -->
-  <g opacity="0.06" fill="none" stroke="#ffffff" stroke-width="3">
-    <rect x="1120" y="44"  width="46" height="62" rx="6"/>
-    <rect x="1172" y="66"  width="46" height="62" rx="6"/>
-    <rect x="1100" y="150" width="46" height="62" rx="6"/>
+  <g opacity="0.05" fill="none" stroke="#ffffff" stroke-width="3">
+    <rect x="1088" y="46"  width="42" height="56" rx="6"/>
+    <rect x="1136" y="66"  width="42" height="56" rx="6"/>
+    <rect x="1070" y="150" width="42" height="56" rx="6"/>
   </g>
 
   <!-- divider before the blended logo -->
-  <rect x="1000" y="96" width="2" height="88" rx="1" fill="#3A4B54" opacity="0.6"/>
+  <rect x="1010" y="98" width="2" height="84" rx="1" fill="#3A4B54" opacity="0.6"/>
 
-  <!-- Momentum Health logo, blended right (white/red on dark), sized to sit inside the border -->
-  <g>
-    <text x="1180" y="132"
+  <!-- Momentum Health logo, right-aligned so it stays inside the border -->
+  <g text-anchor="end">
+    <text x="1210" y="128"
           font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-          font-size="48" font-weight="700" letter-spacing="-1"
-          text-anchor="middle" fill="#ffffff">
+          font-size="40" font-weight="700" letter-spacing="-1"
+          fill="#ffffff">
       <tspan fill="#FF4438">m</tspan><tspan>omentum</tspan>
     </text>
-    <text x="1180" y="168"
+    <text x="1210" y="162"
           font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-          font-size="30" font-weight="400" letter-spacing="3"
-          text-anchor="middle" fill="#9FB3BC">health</text>
+          font-size="26" font-weight="400" letter-spacing="3"
+          fill="#9FB3BC">health</text>
   </g>
 
   <!-- accent bar -->
