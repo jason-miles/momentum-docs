@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src=".github/banner.svg" alt="Momentum Docs — Databricks Customer-Shareable Documentation Library" width="100%">
+<img src=".github/logo.svg" alt="Momentum Health" width="300">
 
-# 📖 Momentum Docs
-### Databricks Customer-Shareable Documentation Library
+<br>
+
+<img src=".github/banner.svg" alt="Databricks Document Repository" width="100%">
+
+# 📖 Databricks Document Repository
+### Momentum Health · Customer-Shareable Documentation Library
 
 *A curated, topic-organized index of Databricks product decks, best-practice guides, deployment playbooks, and enablement material.*
 
@@ -44,7 +48,7 @@ Jump to any topic area:
 |---|---|---|
 | 1 | 📄 [State-of-AI-Agents-2026-Final.pdf](AI%20Agents/State-of-AI-Agents-2026-Final.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🚪 AI Gateway & Omnnigent
 
@@ -59,7 +63,7 @@ Jump to any topic area:
 | 5 | 📄 [Unity AI Gateway & Omnigent Overview.pdf](AI%20Gateway%20%26%20Omnnigent/Unity%20AI%20Gateway%20%26%20Omnigent%20Overview.pdf) | `PDF` |
 | 6 | 📄 [Unity AI Gateway Product Overview Deck.pdf](AI%20Gateway%20%26%20Omnnigent/Unity%20AI%20Gateway%20Product%20Overview%20Deck.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## ☁️ Azure
 
@@ -70,7 +74,7 @@ Jump to any topic area:
 | 1 | 📄 [Azure Databricks Access Connector — When and Why It's Needed.pdf](Azure/Azure%20Databricks%20Access%20Connector%20%E2%80%94%20When%20and%20Why%20It%27s%20Needed.pdf) | `PDF` |
 | 2 | 📄 [Databricks vs AWS Native Capability Map.pdf](Azure/Databricks%20vs%20AWS%20Native%20Capability%20Map.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 📦 DABS
 
@@ -85,7 +89,7 @@ Jump to any topic area:
 | 5 | 📄 [Databricks Asset Bundles Workshop.pdf](DABS/Databricks%20Asset%20Bundles%20Workshop.pdf) | `PDF` |
 | 6 | 📄 [Get Started with Declarative Asset Bundles.pdf](DABS/Get%20Started%20with%20Declarative%20Asset%20Bundles.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🛡️ Data Goverance & Lineage
 
@@ -95,7 +99,7 @@ Jump to any topic area:
 |---|---|---|
 | 1 | 📄 [Data & AI Governance.pdf](Data%20Goverance%20%26%20Lineage/Data%20%26%20AI%20Governance.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🧱 Data Modelling
 
@@ -107,7 +111,7 @@ Jump to any topic area:
 | 2 | 📄 [Dimensional & Data Vault Modeling for Databricks Lakehouse.pdf](Data%20Modelling/Dimensional%20%26%20Data%20Vault%20Modeling%20for%20Databricks%20Lakehouse.pdf) | `PDF` |
 | 3 | 📄 [Dimensional Modeling + Performance tips for Databricks .pdf](Data%20Modelling/Dimensional%20Modeling%20%2B%20Performance%20tips%20for%20Databricks%20.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🖥️ Databricks Apps
 
@@ -119,7 +123,7 @@ Jump to any topic area:
 | 2 | 📄 [Databricks Apps Overview.pdf](Databricks%20Apps/Databricks%20Apps%20Overview.pdf) | `PDF` |
 | 3 | 📄 [The Full Stack of Innovation - Building Data & AI Products with Databricks Apps.pdf](Databricks%20Apps/The%20Full%20Stack%20of%20Innovation%20-%20Building%20Data%20%26%20AI%20Products%20with%20Databricks%20Apps.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 💰 FinOps
 
@@ -140,7 +144,7 @@ Jump to any topic area:
 | 11 | 📄 [old/Serverless _  Advanced Cost Control & Budget Management.pdf](FinOps/old/Serverless%20_%20%20Advanced%20Cost%20Control%20%26%20Budget%20Management.pdf) | `PDF` |
 | 12 | 📄 [Serverless  - Advanced Cost Control & Budget Management.pdf](FinOps/Serverless%20%20-%20Advanced%20Cost%20Control%20%26%20Budget%20Management.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## ✨ GenAI
 
@@ -152,7 +156,7 @@ Jump to any topic area:
 | 2 | 📄 [databricks-ebook-a-compact-guide-to-agent-systems.pdf](GenAI%20/databricks-ebook-a-compact-guide-to-agent-systems.pdf) | `PDF` |
 | 3 | 📄 [unlocking-enterprise-ai.pdf](GenAI%20/unlocking-enterprise-ai.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🧞 Genie (Best Practices)
 
@@ -173,7 +177,7 @@ Jump to any topic area:
 | 11 | 📄 [Genie Best Practices.pdf](Genie%20%28Best%20Practices%29/Genie%20Best%20Practices.pdf) | `PDF` |
 | 12 | 📄 [Genie Conversational API Best Practices.pdf](Genie%20%28Best%20Practices%29/Genie%20Conversational%20API%20Best%20Practices.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🚀 Genie (Deploy Guides)
 
@@ -193,7 +197,7 @@ Jump to any topic area:
 | 10 | 📄 [genie-chat-vs-agent.pdf](Genie%20%28Deploy%20Guides%29/genie-chat-vs-agent.pdf) | `PDF` |
 | 11 | 📄 [Genie_Space-Design-Guide.pdf](Genie%20%28Deploy%20Guides%29/Genie_Space-Design-Guide.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## ⚡ Lakehouse :: RT
 
@@ -203,7 +207,7 @@ Jump to any topic area:
 |---|---|---|
 | 1 | 📄 [Introducing Lakehouse :: RT.pdf](Lakehouse%20%3A%3A%20RT/Introducing%20Lakehouse%20%3A%3A%20RT.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 🧩 Omnigent
 
@@ -214,7 +218,7 @@ Jump to any topic area:
 | 1 | 📄 [Omnigent - A Meta-Harness for AI Agents.pdf](Omnigent/Omnigent%20-%20A%20Meta-Harness%20for%20AI%20Agents.pdf) | `PDF` |
 | 2 | 📄 [Omnigent Announcement (DAIS 2026 Enablement 101).pdf](Omnigent/Omnigent%20Announcement%20%28DAIS%202026%20Enablement%20101%29.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 📐 Semantic-Modelling
 
@@ -228,7 +232,7 @@ Jump to any topic area:
 | 4 | 📄 [UC Metric Views .pdf](Semantic-Modelling/UC%20Metric%20Views%20.pdf) | `PDF` |
 | 5 | 📄 [UC Metrics & AI For Data Management.pdf](Semantic-Modelling/UC%20Metrics%20%26%20AI%20For%20Data%20Management.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 📚 Unity Catalogue
 
@@ -242,7 +246,7 @@ Jump to any topic area:
 | 4 | 📄 [Unity Catalog - Overview.pdf](Unity%20Catalogue/Unity%20Catalog%20-%20Overview.pdf) | `PDF` |
 | 5 | 📄 [Unity Catalog - Unified and Open Goverance.pdf](Unity%20Catalogue/Unity%20Catalog%20-%20Unified%20and%20Open%20Goverance.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ## 📣 _DAIS 2026 announcements
 
@@ -252,7 +256,7 @@ Jump to any topic area:
 |---|---|---|
 | 1 | 📄 [ DAIS 2026 Announcement - Deep Dive Deck.pdf](_DAIS%202026%20announcements/%20DAIS%202026%20Announcement%20-%20Deep%20Dive%20Deck.pdf) | `PDF` |
 
-[⬆ Back to top](#-momentum-docs)
+[⬆ Back to top](#-databricks-document-repository)
 
 ---
 
