@@ -90,7 +90,7 @@ Three curated reading paths, each one a good place to begin.
 | 👁️ **Preview** | Click any title. PDFs and images render in the browser; Office files download. |
 | ⬇️ **Download** | Open a document and select the download button (top right). |
 | 📦 **Get everything** | Use **Code → Download ZIP** to take the whole library offline. |
-| 🏷️ **Sharing tags** | Files tagged `[External]` or `[Customer Facing]` are cleared for wider distribution. |
+| 🏷️ **Sharing** | Files tagged `[External]` or `[Customer Facing]` are cleared for wider distribution. Everything else is shared with your organisation by your Databricks account team, so please check with us before passing it on to anyone outside it. |
 
 ---
 
