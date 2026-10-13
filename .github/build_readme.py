@@ -20,6 +20,7 @@ THEMES = [
         ("✨", "GenAI", "Generative AI big books and enterprise AI guides"),
         ("🧩", "Omnigent", "Omnigent meta-harness for AI agents"),
         ("🤖", "AI Agents", "Agent research and industry reports"),
+        ("🔗", "Microsoft 365 & SharePoint", "Genie with Microsoft 365 and SharePoint: integration guide and code (GitHub)"),
     ]),
     ("🧞", "Genie", "Plan, build, deploy, and secure AI/BI Genie", [
         ("🧞", "Genie (Best Practices)", "AI/BI Genie best practices, curation, and pitch material"),

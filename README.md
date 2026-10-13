@@ -11,10 +11,10 @@ curated by your Databricks account team and organised so you can find what you n
 
 <br>
 
-![Documents](https://img.shields.io/badge/Documents-76-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Topics](https://img.shields.io/badge/Topics-18-1B3139?style=for-the-badge)
-![Formats](https://img.shields.io/badge/Formats-DOCX%20%7C%20JPG%20%7C%20PDF%20%7C%20XLSM%20%7C%20XLSX-00A972?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-September%202026-6B7280?style=for-the-badge)
+![Documents](https://img.shields.io/badge/Documents-77-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Topics](https://img.shields.io/badge/Topics-19-1B3139?style=for-the-badge)
+![Formats](https://img.shields.io/badge/Formats-DOCX%20%7C%20JPG%20%7C%20MD%20%7C%20PDF%20%7C%20XLSM%20%7C%20XLSX-00A972?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-October%202026-6B7280?style=for-the-badge)
 
 <br>
 
@@ -65,6 +65,7 @@ Three curated reading paths, each one a good place to begin.
 |  | ✨ [GenAI](#-genai) | `3` | Generative AI big books and enterprise AI guides |
 |  | 🧩 [Omnigent](#-omnigent) | `2` | Omnigent meta-harness for AI agents |
 |  | 🤖 [AI Agents](#-ai-agents) | `1` | Agent research and industry reports |
+|  | 🔗 [Microsoft 365 & SharePoint](#-microsoft-365--sharepoint) | `1` | Genie with Microsoft 365 and SharePoint: integration guide and code (GitHub) |
 | **🧞 Genie** | 🧞 [Genie (Best Practices)](#-genie-best-practices) | `12` | AI/BI Genie best practices, curation, and pitch material |
 |  | 🚀 [Genie (Deploy Guides)](#-genie-deploy-guides) | `11` | Genie rollout, migration, and enterprise deployment |
 |  | 🔐 [Genie (Security Reviews)](#-genie-security-reviews) | `5` | Genie security reviews, threat model, and controls for InfoSec assessments |
@@ -80,7 +81,7 @@ Three curated reading paths, each one a good place to begin.
 |  | ⚡ [Lakehouse :: RT](#-lakehouse--rt) | `1` | Lakehouse real-time processing |
 | **📣 Announcements** | 📣 [DAIS 2026 Announcements](#-dais-2026-announcements) | `1` | Data + AI Summit 2026 announcements |
 
-<p align="right"><sub><b>76</b> documents · <b>18</b> topics · <b>5</b> themes</sub></p>
+<p align="right"><sub><b>77</b> documents · <b>19</b> topics · <b>5</b> themes</sub></p>
 
 ## 🧭 How to Use This Library
 
@@ -140,6 +141,16 @@ Three curated reading paths, each one a good place to begin.
 | | Document | Format |
 |:--:|:--|:--:|
 | 📄 | [State-of-AI-Agents-2026-Final](AI%20Agents/State-of-AI-Agents-2026-Final.pdf) | `PDF` |
+
+<p align="right"><sub><a href="#-databricks-document-repository">↑ Back to top</a></sub></p>
+
+## 🔗 Microsoft 365 & SharePoint
+
+> Genie with Microsoft 365 and SharePoint: integration guide and code (GitHub) &nbsp;·&nbsp; **1** document &nbsp;·&nbsp; [📂 Open folder](Microsoft%20365%20%26%20SharePoint)
+
+| | Document | Format |
+|:--:|:--|:--:|
+| 📎 | [Genie & M365 SharePoint Integration Guide (GitHub)](Microsoft%20365%20%26%20SharePoint/Genie%20%26%20M365%20SharePoint%20Integration%20Guide%20%28GitHub%29.md) | `MD` |
 
 <p align="right"><sub><a href="#-databricks-document-repository">↑ Back to top</a></sub></p>
 
@@ -368,6 +379,6 @@ Three curated reading paths, each one a good place to begin.
 
 **Need something that isn't here?** Reach out to your Databricks account team and we'll add it.
 
-<sub>Momentum Health · Databricks Document Repository · Last updated September 2026</sub>
+<sub>Momentum Health · Databricks Document Repository · Last updated October 2026</sub>
 
 </div>
