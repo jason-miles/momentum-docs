@@ -12,4 +12,4 @@ It covers three paths:
 | **B · Lakeflow Connect SharePoint** | Managed ingestion of SharePoint files into governed Delta tables, then Knowledge Assistant or Vector Search |
 | **C · Custom Microsoft Graph pipeline** | Delta-query ingestion with per-document ACL capture and security-trimmed retrieval |
 
-The repository includes Terraform (Entra app with `Sites.Selected`, secrets, Unity Catalog, Vector Search), a Databricks Asset Bundle, tested notebooks, helper scripts and an end-to-end smoke test. Last updated 13 October 2026.
+The repository includes Terraform (Entra app with `Sites.Selected`, secrets, Unity Catalog, Vector Search), a Databricks Asset Bundle, helper scripts, and notebooks tested on a Databricks workspace with a synthetic corpus, plus a smoke test for the ingest-and-search half of Paths B and C. Steps that need a Microsoft tenant (the SharePoint connection, Entra app, Graph API and Path A) are not yet tested; see the repository's "What has been tested" section. Last updated 13 October 2026.
